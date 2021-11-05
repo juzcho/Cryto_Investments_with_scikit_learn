@@ -1,6 +1,6 @@
-# **Module 10 Challenge: Crypto Investment**
+# **Crypto Investment**
 
-## Crypto Investment 
+## Overview
 
 The Crypto Investment tool is being able to get the KMeans algorithm for segmentations for cryptocurrency profitability. It will show different scatter plots with varying n_clusters to create a robust analysis on the dataframe.
 
